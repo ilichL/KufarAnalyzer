@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KufarAnalyzer", "KufarAnalyzer\KufarAnalyzer.csproj", "{92A27CFD-8494-40E2-A133-1A8272AC797D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KufarAnalyzer.Data", "KufarAnalyzer.Data\KufarAnalyzer.Data.csproj", "{3657F8B3-B600-425B-85F6-182B0926B581}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KufarAnalyzer.DataAccess", "KufarAnalyzer.DataAccess\KufarAnalyzer.DataAccess.csproj", "{C62F7947-A9F1-4253-B742-C843F4307B03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KufarAnalyzer.Ifrastructure", "KufarAnalyzer.Ifrastructure\KufarAnalyzer.Ifrastructure.csproj", "{6E53B7BF-1E4D-4E4D-888A-E9FD3E74B491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KufarAnalyzer.Models", "KufarAnalyzer.Models\KufarAnalyzer.Models.csproj", "{69F19B7D-3DA6-44BA-8A9C-21DCEDAB3B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A27CFD-8494-40E2-A133-1A8272AC797D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A27CFD-8494-40E2-A133-1A8272AC797D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A27CFD-8494-40E2-A133-1A8272AC797D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A27CFD-8494-40E2-A133-1A8272AC797D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3657F8B3-B600-425B-85F6-182B0926B581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3657F8B3-B600-425B-85F6-182B0926B581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3657F8B3-B600-425B-85F6-182B0926B581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3657F8B3-B600-425B-85F6-182B0926B581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62F7947-A9F1-4253-B742-C843F4307B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62F7947-A9F1-4253-B742-C843F4307B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62F7947-A9F1-4253-B742-C843F4307B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62F7947-A9F1-4253-B742-C843F4307B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E53B7BF-1E4D-4E4D-888A-E9FD3E74B491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E53B7BF-1E4D-4E4D-888A-E9FD3E74B491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E53B7BF-1E4D-4E4D-888A-E9FD3E74B491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E53B7BF-1E4D-4E4D-888A-E9FD3E74B491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F19B7D-3DA6-44BA-8A9C-21DCEDAB3B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F19B7D-3DA6-44BA-8A9C-21DCEDAB3B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F19B7D-3DA6-44BA-8A9C-21DCEDAB3B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F19B7D-3DA6-44BA-8A9C-21DCEDAB3B19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A90F47D0-66B8-458E-BA54-0E78AE056C83}
+	EndGlobalSection
+EndGlobal
